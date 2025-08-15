@@ -39,7 +39,7 @@ git clone https://github.com/PauloViniciusTavaresSouza/loja-mobile
 
 Acesse a pasta do projeto:
 
-cd seu-repositorio
+cd loja-mobile
 
 Instale as dependências:
 
